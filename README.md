@@ -1,1 +1,1 @@
-# Hackerank30DaysOfCode
+# Hackerrank30DaysOfCode
