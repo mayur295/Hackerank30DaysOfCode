@@ -2,10 +2,10 @@
 using namespace std;
 int main()
 {
-    int n;
-    int ar[n];
-    cin>>n;
-    for(int i=0;i<n;i++)
+    int a;
+    int ar[a];
+    cin>>a;
+    for(int i=0;i<a;i++)
     {
         cin>>ar[i];
     }
